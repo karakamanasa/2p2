@@ -1,0 +1,17 @@
+a=int(input('Principum amount'))
+b=int(input('simple interest'))
+c=int(input('Total no. of months'))
+EMI=(a+b)/c
+print("EMI is",EMI)
+
+
+
+
+
+
+
+output:
+Principum amount 2600
+simple interest 3456
+Total no. of months6
+EMI is 1009.3333333333334
